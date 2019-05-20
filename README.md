@@ -6,4 +6,4 @@
 * this is point two 
 * this is point three
 
-Joseph M Perez 
+Joseph M. Perez 
